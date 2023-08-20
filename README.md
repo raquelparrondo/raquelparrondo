@@ -6,7 +6,7 @@
 - 🔭 I’m currently developing my Master thesis on Pharmacoinformatics and Machine Learning.  
 - 🌱 I’m currently enrolled in Bioinformatics for Health Sciences at University Pompeu Fabra.
 - 💬 Ask me about anything you want, I'll always try to help.
-- 📫 How to reach me: raquelparrondo2000@gmail.com
+- 📫 If you want to reach me: raquelparrondo2000@gmail.com.
 - ⚡ Fun fact: I sing in a Gospel choir and like going to the gym.
 
 ## Skills
@@ -19,7 +19,7 @@
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 
-### ML/DL
+### Machine Learning & Deep Learning 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -35,7 +35,8 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
-### Other
+
+### Others
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 

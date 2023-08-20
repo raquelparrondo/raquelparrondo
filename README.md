@@ -9,6 +9,7 @@
 - 📫 If you want to reach me: raquelparrondo2000@gmail.com.
 - ⚡ Fun fact: I sing in a Gospel choir and like going to the gym.
 
+
 ## Skills
 
 ### Languages
@@ -17,6 +18,7 @@
 [![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+
 
 
 ### Machine Learning & Deep Learning 
@@ -31,13 +33,16 @@
 [![NLTK](https://img.shields.io/badge/NLTK-41A48D?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
 
 
+
 ### OS
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 
+
 ### Others
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 
 ## Linkedin profile:
